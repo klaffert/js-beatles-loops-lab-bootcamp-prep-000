@@ -19,5 +19,6 @@ var i = 0
 while (array.length < facts.length)
 array.push(facts[i] + "!!!")
 return array
+i++
 }
 
